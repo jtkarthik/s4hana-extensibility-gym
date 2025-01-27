@@ -4,7 +4,7 @@
 [![SAP Community](https://img.shields.io/badge/SAP_Community-Contributions-blue)](https://community.sap.com)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/sap-s4hana-extensibility-showcase?style=social)
 
-** Explore all SAP S/4HANA Extensibility options and practice each option with practical examples. This GitHub repository will equip you to solve any business requirement that requires extending the standard SAP S/4HANA functionality. **
+**Explore all SAP S/4HANA Extensibility options and practice each option with practical examples. This GitHub repository will equip you to solve any business requirement that requires extending the standard SAP S/4HANA functionality.**
 
 ---
 
